@@ -10,6 +10,15 @@ If you want to get more visual, and brand inspired into it's own thing, check ou
 
 [READmore via HackerNoon](https://hackernoon.com/c/hackernoon)
 
+RELATED: More About the [HackerNoon Brand](https://brand.hackernoon.com/)
+* [Visual Assets](https://brand.hackernoon.com/visual-assets)
+* [HackerNoon Logos](https://brand.hackernoon.com/visual-assets/hackernoon-logos)
+* [HackerNoon Imagery](https://brand.hackernoon.com/visual-assets/image-photograph)
+* [HackerNoon Unsplash](https://unsplash.com/hackernoon)
+* [Color Palletes](https://brand.hackernoon.com/visual-assets/color-palettes)
+
+
+
 
 
 
