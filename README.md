@@ -1,4 +1,4 @@
-# creatives
+# HackerNoon Creatives
 
 This is where [HackerNoon](https://hackernoon.com) showcases [all the creatives that makes HackerNoon HackerNoon](https://brand.hackernoon.com/), from campaigns to [official logo kits](https://brand.hackernoon.com/visual-assets/hackernoon-logos) to our [open-sourced library of pixelated social media icons](https://github.com/hackernoon/creatives/tree/Pixelated-Social-Media-Icons) (also [available as GIFs](https://hackernoon.com/pixelated-social-media-icon-gifs-facebook-twitter-linkedin-github-youtube-and-instagram-5kn3ad3)), [pixelated site icons](https://github.com/hackernoon/creatives/tree/Pixelated-Icons), [pixelated emoji reactions](https://github.com/hackernoon/creatives/tree/Pixelated-Emoji-Reactions), [emoji credibility indicators](https://github.com/hackernoon/emoji-credibility-indicators) and [the original HackerNoon font](https://github.com/hackernoon/font) ([2.0 on DaFont too](https://www.dafont.com/hacker-noon.font)). 
 
